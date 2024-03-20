@@ -11,5 +11,4 @@ keep_ratio_helper->AddHelped(some_widget_inside_layout);
 keep_ratio_helper->AddHelped(another_widget_inside_layout);
 //...
 
-
 ```

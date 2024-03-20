@@ -1,5 +1,6 @@
 # KeepAspectRatioHelper
-In Qt, when a widget is inside layout,  it's not easy to keep the widget's aspect ratio during window's resizing.  
+In Qt, when a widget is inside layout,  
+it's not easy to keep the widget's aspect ratio during window's resizing.  
 But with this helper class, it's becoming quite easy.
 
 # Demo
